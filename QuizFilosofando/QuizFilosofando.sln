@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizFilosofando", "QuizFilosofando\QuizFilosofando.csproj", "{6F8EB76C-6556-4B30-98A4-CDD771259C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8EB76C-6556-4B30-98A4-CDD771259C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8EB76C-6556-4B30-98A4-CDD771259C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8EB76C-6556-4B30-98A4-CDD771259C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8EB76C-6556-4B30-98A4-CDD771259C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D0399F-A25D-4007-A177-8591147CF3E8}
+	EndGlobalSection
+EndGlobal
